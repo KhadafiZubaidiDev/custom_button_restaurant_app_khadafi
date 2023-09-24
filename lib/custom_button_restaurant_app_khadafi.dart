@@ -31,7 +31,7 @@ class CustomButtonRestaurantAppKhadafi extends StatelessWidget{
                   height: 50.0,
                   width: 50.0,
                   decoration: BoxDecoration(
-                    color: Colors.red,
+                    color: Colors.red[900],
                     borderRadius: BorderRadius.circular(8.0),
                   ),
                   child: Icon(
@@ -45,7 +45,7 @@ class CustomButtonRestaurantAppKhadafi extends StatelessWidget{
                     textAlign: TextAlign.center,
                     style: const TextStyle(
                         fontSize: 15,
-                        color: Colors.red,
+                        color: Colors.black,
                         fontWeight: FontWeight.bold),
                   ),
                 ),
